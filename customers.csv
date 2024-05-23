@@ -1,0 +1,101 @@
+customer_id,name,gender,age,address,phone_number,email,account_type,account_balance
+1,Shirley Smith,male,42,"958 Orr Bypass
+Madisonhaven, AL 13090",(604)768-6824x43635,hmassey@example.com,checking,5996.12
+2,Megan Davis,female,68,"009 Cassandra Dam Apt. 092
+Ronaldburgh, AZ 93652",(435)890-9000x88138,fishernatasha@example.net,savings,5842.71
+3,Tina Palmer,male,73,"385 Anita Course
+Johnsonmouth, KY 98339",+1-948-703-6350x01458,woodardderek@example.net,loan,18334.74
+4,Patrick Rogers,male,60,"9624 Megan Village
+South John, AR 45266",(995)552-7748x70703,christinadoyle@example.net,checking,14730.7
+5,Wyatt Anderson,male,54,"68395 Phillips Forge
+Josephfurt, IL 81667",493.223.7471,brianlewis@example.com,checking,15533.36
+6,Andrea Howard,male,19,"5790 Glenda Burg Apt. 752
+New Stephaniefurt, PA 52234",(401)778-9117x411,lthompson@example.net,checking,14676.85
+7,Jamie Aguilar,female,36,"5620 Hanson Corner
+Estradamouth, DE 51232",+1-677-982-6761x4095,lauracampbell@example.com,loan,1597.11
+8,Breanna Casey,male,72,"9497 Benjamin Pike
+South Brandonmouth, IA 83518",+1-206-954-2092x53212,ninaanderson@example.net,checking,13628.3
+9,Clinton Eaton,male,26,"16308 Smith Alley
+Wadebury, PR 08537",+1-678-920-0924,washingtoncassandra@example.com,savings,14766.33
+10,Christopher Miller,male,56,"42256 Melissa Stravenue Suite 634
+East Megan, IA 11834",+1-910-847-4117x041,williamevans@example.org,loan,10227.24
+11,Drew Jimenez,male,60,"USNV Klein
+FPO AA 24989",+1-551-757-8221x2523,hector89@example.com,savings,3899.72
+12,Joshua Rice,male,22,"789 Hunt Stream
+East Michaelstad, AL 11502",530.270.3594x68525,pauljames@example.org,savings,2442.4
+13,Charles Glover,male,65,"454 Maureen Freeway Apt. 020
+Lauratown, MP 37350",2743548393,megan04@example.com,loan,19332.28
+14,Craig Roach,female,68,"4095 Daniel Circle
+Russellmouth, NY 88568",784.594.0467x33205,andrew53@example.org,checking,15776.04
+15,Christina Pollard,female,31,"74844 Fisher Neck
+North James, NJ 52243",+1-797-634-7153x849,mkennedy@example.org,loan,11185.31
+16,Christina Stevens,female,45,"146 Rebecca Row
+Floresshire, NY 67697",001-258-904-5704,kenneth57@example.net,loan,16034.12
+17,Christopher Hall,male,47,"541 Brooks Hill
+New Thomas, VT 59537",286-598-5146x32183,batescheryl@example.com,loan,1017.08
+18,Jeffrey Horton,female,62,"776 Alexa Rue Apt. 087
+Quinntown, NY 92221",830-267-9552x83244,michaelmedina@example.com,loan,19444.27
+19,Robert Meadows,male,46,"7965 Rodriguez Motorway
+Wilsonville, NC 98047",283.830.2509,sheilarivas@example.net,savings,13193.06
+20,Amber Spencer,male,47,"23884 James Parkway
+Mitchellbury, CT 76815",849.735.3001x414,flowerssharon@example.net,savings,10338.19
+21,Samantha Franklin,male,71,"1839 Jennings Spur Suite 860
+Richardburgh, NY 48339",001-609-923-9130x56135,mmorales@example.org,checking,19444.73
+22,Dustin Kim,female,35,"38490 Christopher Station Apt. 638
+Perezton, MN 19771",582-360-1662,barbara07@example.org,savings,1504.39
+23,Tammy Jones,female,23,"890 Bennett Pike Suite 519
+North Kevinhaven, IA 05820",414-372-7660x37434,gerald55@example.com,loan,19635.6
+24,Melanie Anthony,female,38,"763 Kristin Pines Suite 794
+North Cameron, HI 11497",001-598-264-5821x36917,michael20@example.org,loan,15868.83
+25,Robert Brooks,female,52,"3151 Roman Ville
+Port Ricky, VT 28431",(736)443-2343x67501,tammywatson@example.com,loan,10112.97
+26,Tracy Bridges MD,female,45,"6281 Melanie Plains
+Wrightborough, KY 78399",(892)555-5635x36936,michaelbartlett@example.org,loan,9796.29
+27,Heather Foley,female,47,"30150 Singh Knoll Suite 096
+New Staceyfurt, TX 03588",914.283.6256,meghan20@example.com,loan,6530.97
+28,Jennifer Cochran,female,42,"919 Martinez Springs
+New Tinaport, OH 03702",584.514.2952x9489,doconnor@example.com,checking,19355.63
+29,Robert Wall,male,28,"849 Thompson Station
+West Jonathan, OH 92414",(654)439-1535,ohernandez@example.com,savings,19256.21
+30,Courtney Sullivan,female,62,"6253 Taylor Stream Suite 021
+East Amanda, NV 39217",463.647.3080x5079,agordon@example.org,savings,15708.01
+31,Alicia Allen,female,21,"6267 Carlson Viaduct
+Mendozaside, WV 13108",(656)931-8009,michelle52@example.com,loan,5098.65
+32,Brian Arnold,female,31,"47955 Pamela Roads
+Williamshaven, VI 90474",(903)920-6218,michael83@example.net,checking,17032.18
+33,Kelly Steele,female,24,"1111 Melissa Parkways
+Port Rodneyhaven, KY 65846",592.948.7671,stephennelson@example.org,checking,16936.62
+34,Katherine Torres,male,72,"583 Yoder Shore
+Fergusonport, VI 78126",001-342-753-3707x072,kennethpratt@example.com,checking,16953.87
+35,Bryan Caldwell,male,37,"72914 Henderson Harbors Apt. 445
+Jacquelineton, AS 32072",(801)676-2080,lauriehumphrey@example.org,savings,12734.68
+36,Isabella Smith,female,60,"804 Richard Turnpike Apt. 108
+Arroyoport, WI 95852",274.569.1693,kelleychristopher@example.org,savings,13984.82
+37,Terri Maldonado,male,55,"9227 Kimberly Junction Apt. 569
+Port Brandon, IN 81418",+1-523-970-9355,matthewgarcia@example.org,checking,8073.72
+38,Joseph Bradley,female,52,"27554 Diane Canyon Suite 381
+Michelefort, NC 40282",740-551-8640x9950,casey32@example.org,savings,5112.65
+39,Sierra Newman,male,66,"7485 Stephen Mall Apt. 108
+Hollandport, MS 04800",4696884287,alexandermoreno@example.net,savings,9682.85
+40,David Davila,male,47,"8854 Cochran Ridges
+West Karen, GU 23834",001-998-540-9197,schneiderstephanie@example.net,savings,1768.65
+41,Destiny Peters,male,54,"0722 Yvonne Villages
+Frankmouth, MN 47070",001-923-828-4584,sandra50@example.net,loan,12147.09
+42,Kayla Myers,female,21,"9585 Monica Streets
+South William, GA 24767",001-485-445-8101x501,natalie56@example.net,loan,15917.46
+43,Jessica Stone,female,56,"7697 Thomas Key Apt. 339
+Angelaside, MS 99663",991.944.7563x6364,steven46@example.net,checking,18272.61
+44,James Sanchez,female,19,"4461 Amanda Manors Apt. 286
+West Johnstad, NE 58017",842-968-9454x2587,longchristina@example.net,checking,7365.42
+45,Brendan Phillips,female,51,"47096 Bates Islands Apt. 772
+Lake Jamesport, ND 94385",942-717-1936x13217,hopkinsjessica@example.net,savings,13228.34
+46,Stephen Cruz,female,37,"38249 Frazier Springs
+Ramosport, AZ 16518",957-224-5330x2780,margaretdean@example.org,savings,12768.94
+47,Bonnie Jackson,male,45,"3816 Michael Unions Apt. 481
+Dylanport, PW 62195",592.412.0153x5632,bjacobs@example.org,savings,5534.99
+48,Andres Thomas,female,53,"676 Rodriguez Lakes
+Heatherborough, FM 33803",001-819-551-7747x04306,keymiguel@example.org,savings,7278.8
+49,Michael Neal,male,54,"37143 Gonzales Mills
+Tiffanyshire, HI 19861",+1-595-623-7032x3748,lhaley@example.net,loan,4861.93
+50,Cassandra Marsh,male,63,"PSC 3538, Box 6810
+APO AE 35277",617.873.7728,karen38@example.com,loan,6996.63
