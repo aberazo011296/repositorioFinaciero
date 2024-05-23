@@ -1,21 +1,21 @@
 ID_Actividad,Nombre_Actividad,Tipo
-1,Actividad 1,Investigación
-2,Actividad 2,Voluntariado
-3,Actividad 3,Cultura
-4,Actividad 4,Voluntariado
-5,Actividad 5,Deporte
-6,Actividad 6,Investigación
-7,Actividad 7,Investigación
-8,Actividad 8,Voluntariado
-9,Actividad 9,Cultura
-10,Actividad 10,Investigación
-11,Actividad 11,Voluntariado
-12,Actividad 12,Cultura
-13,Actividad 13,Investigación
-14,Actividad 14,Investigación
-15,Actividad 15,Investigación
-16,Actividad 16,Deporte
-17,Actividad 17,Voluntariado
-18,Actividad 18,Deporte
-19,Actividad 19,Investigación
-20,Actividad 20,Voluntariado
+1,Observación Astronómica,Investigación
+2,Tutorías Académicas,Voluntariado
+3,Talleres de Danza y Música,Cultura
+4,Programas de Mentoría,Voluntariado
+5,Natación,Deporte
+6,Proyectos de Laboratorio,Investigación
+7,Trabajo de Campo en Biología,Investigación
+8,Voluntariado en Bibliotecas,Voluntariado
+9,Proyecciones de Cine Internacional,Cultura
+10,Investigaciones Arqueológicas,Investigación
+11,Organización de Eventos,Voluntariado
+12,Gastronomía Internacional,Cultura
+13,Investigación en Ciencias Ambientales,Investigación
+14,Investigación en Ciencias de la Computación,Investigación
+15,Proyectos de Economía y Negocios,Investigación
+16,Fútbol,Deporte
+17,Proyectos de Sostenibilidad,Voluntariado
+18,Ajedrez,Deporte
+19,Investigaciones Médicas y de Salud Pública,Investigación
+20,Voluntariado en Hospitales,Voluntariado
